@@ -32,5 +32,6 @@ cat "spaces in this filename"
 ```
 
 ## ✅ Output
+![bandit2](https://github.com/user-attachments/assets/3c9ed324-68d5-44d6-96f5-07c98d24852e)
 
 ---
