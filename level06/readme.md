@@ -48,5 +48,6 @@ cat ./maybehere07/.file2
 ```
 
 ## ✅ Output
+![image](https://github.com/user-attachments/assets/bc14566a-5cc8-4157-aaba-02f83f4ccb16)
 
 ---
