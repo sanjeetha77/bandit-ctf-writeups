@@ -40,5 +40,6 @@ cat ./-file07
 ```
 
 ## ✅ Output
+![image](https://github.com/user-attachments/assets/cf514fc9-16d5-490f-87ff-e9dff8b92207)
 
 ---
