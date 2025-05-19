@@ -35,6 +35,7 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 ## ✅ Output
 
-![image.png](attachment:4d919214-6f03-476d-9ed9-06d893b89fb8:image.png)
+![image](https://github.com/user-attachments/assets/fa25b7c0-20f3-47bc-9820-deb5f97572cf)
+
 
 ---
