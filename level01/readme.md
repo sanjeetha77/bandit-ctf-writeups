@@ -37,6 +37,7 @@ cat readme
 
 ## ✅ Output
 
-![alt text](bandit0-1.jpeg)
+![bandit0](https://github.com/user-attachments/assets/d47ccdd2-67d9-4574-bc1e-27185b8ca32a)
+
 
 ---
