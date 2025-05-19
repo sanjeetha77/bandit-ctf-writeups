@@ -37,5 +37,6 @@ cat ...Hiding-From-You
 ```
 
 ## ✅ Output
+![image](https://github.com/user-attachments/assets/a0c2021d-0f76-4109-a886-b30fcaf502ac)
 
 ---
