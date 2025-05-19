@@ -37,6 +37,6 @@ cat readme
 
 ## ✅ Output
 
-
+![alt text](bandit0-1.jpeg)
 
 ---
