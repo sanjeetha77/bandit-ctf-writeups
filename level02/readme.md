@@ -33,6 +33,7 @@ cat ./-
 
 ## ✅ Output
 
+![bandit1](https://github.com/user-attachments/assets/588e9f49-f0d5-40e7-91e2-9a85f60b46c9)
 
 
 ---
