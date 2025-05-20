@@ -35,4 +35,6 @@ You can use `man uniq` to see useful flags like:
 
 ## ✅ Output
 
+![image](https://github.com/user-attachments/assets/9d487d03-af03-40d1-b720-ce6f46549ace)
+
 ---
