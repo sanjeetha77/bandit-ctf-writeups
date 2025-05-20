@@ -43,7 +43,7 @@ base64 -d filename
 - To encode:
 
 ```bash
-b
+base64 -b filename
 ```
 
 ---
