@@ -49,5 +49,6 @@ b
 ---
 
 ## ✅ Output
+![image](https://github.com/user-attachments/assets/1b6d5b7a-37b5-4acb-bcdc-d3ea9160cc6c)
 
 ---
