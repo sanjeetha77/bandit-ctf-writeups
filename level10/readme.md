@@ -12,7 +12,7 @@ The password for the next level is stored in the file `data.txt`, in one of the 
 - `grep` – search for specific patterns in text
 - `ls -la` – list all files in the directory
 - `cat` – view file contents (not useful for binary here)
-- `head` – view the first few lines of a file or output [To ensure what type of file is]
+- `head` – view the first few lines of a file or output [To ensure what type of content is in the file]
 
 ---
 
@@ -29,5 +29,6 @@ strings data.txt | grep =
 
 ## ✅ Output
 
+![image](https://github.com/user-attachments/assets/5c57c07b-b020-4b50-9f73-2489b03b697f)
 
 ---
