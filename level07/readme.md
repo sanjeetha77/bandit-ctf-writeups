@@ -36,5 +36,6 @@ cat /var/lib/dpkg/info/bandit7.password
 ```
 
 ## ✅ Output
+![image](https://github.com/user-attachments/assets/5a6905a9-3897-4754-aa58-c352ac81a60d)
 
 ---
