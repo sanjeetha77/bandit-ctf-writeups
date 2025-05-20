@@ -27,4 +27,6 @@ cat data.txt | grep "millionth"
 
 ## ✅ Output
 
+![image](https://github.com/user-attachments/assets/f8945248-c15e-4f25-8d0c-fa6233671ca1)
+
 ---
