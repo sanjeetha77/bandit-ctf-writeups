@@ -43,5 +43,6 @@ Correct!
 ---
 
 ## ✅ Output
+![image](https://github.com/user-attachments/assets/0ef60f3d-f831-4447-be56-245506f7edfd)
 
 ---
