@@ -83,5 +83,8 @@ cat data8
 ---
 
 ## ✅ Output
+![image](https://github.com/user-attachments/assets/7f44bc39-c104-46f3-9e41-f238e7646436)
+![image](https://github.com/user-attachments/assets/1c53ad52-60e0-4ecf-b340-ad74e222aad1)
+![image](https://github.com/user-attachments/assets/9aeefc6e-33a9-4ad6-9926-87f31f14b885)
 
 ---
