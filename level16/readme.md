@@ -25,5 +25,6 @@ ncat localhost 30001 --ssl
 ---
 
 ## ✅ Output
+![image](https://github.com/user-attachments/assets/d8f1a6f7-387e-428e-a3dc-2593c8213751)
 
 ---
