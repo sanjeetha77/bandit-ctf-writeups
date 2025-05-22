@@ -58,5 +58,7 @@ cat /etc/bandit_pass/bandit14
 ---
 
 ## ✅ Output
+![image](https://github.com/user-attachments/assets/45ec7347-07b2-4355-8ab8-e8b11f03c488)
+![image](https://github.com/user-attachments/assets/41ec6179-7ccc-45dd-9564-257abf381307)
 
 ---
