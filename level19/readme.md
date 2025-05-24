@@ -70,5 +70,6 @@ ls -la
     
 
 ## ✅ Output
+![WhatsApp Image 2025-05-23 at 1 03 35 AM (1)](https://github.com/user-attachments/assets/f94cb443-e13d-4720-86cf-6acc420c6de7)
 
 ---
