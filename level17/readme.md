@@ -53,5 +53,6 @@ diff passwords.new passwords.old
 ---
 
 ## ✅ Output
+![image](https://github.com/user-attachments/assets/0ca22fdd-6997-4304-85b2-439445998b48)
 
 ---
