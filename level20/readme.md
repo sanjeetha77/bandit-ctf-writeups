@@ -59,5 +59,6 @@ echo "<bandit20_password>" | netcat -lp 1234 &
 ---
 
 ## ✅ Output
+![WhatsApp Image 2025-05-24 at 8 43 18 PM](https://github.com/user-attachments/assets/80a0b8e6-1d32-4db0-95ff-c2a6130d6736)
 
 ---
