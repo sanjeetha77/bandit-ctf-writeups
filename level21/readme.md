@@ -42,5 +42,6 @@ cat /tmp/t706lds9SORQqh9aMcz6ShpAoZKF7fgv
 ---
 
 ## ✅ Output
+![WhatsApp Image 2025-05-31 at 10 50 49 PM](https://github.com/user-attachments/assets/667867d7-5393-4acf-a15c-0e61aad629a6)
 
 ---
