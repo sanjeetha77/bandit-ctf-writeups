@@ -53,5 +53,7 @@ The password of user bandit25 is iCi86ttT4KSNe1armKiwbQNmB3YJP3q4
 ---
 
 ## ✅ Output
+![WhatsApp Image 2025-05-31 at 10 50 49 PM (4)](https://github.com/user-attachments/assets/e0ddb75b-393b-4765-a6a2-bac905df39f6)
+![WhatsApp Image 2025-05-31 at 10 50 49 PM (5)](https://github.com/user-attachments/assets/d46e104f-7be0-47e3-a542-310aed0ec899)
 
 ---
