@@ -53,5 +53,7 @@ After the push, you'll see in the response from the server and can find the pass
 ---
 
 ## ✅ Output
+![image](https://github.com/user-attachments/assets/3b2640c1-ae69-48ab-9b0a-7d70029aac6e)
+![image](https://github.com/user-attachments/assets/5b3481d7-fb42-432c-a4a4-f42301fc2448)
 
 ---
