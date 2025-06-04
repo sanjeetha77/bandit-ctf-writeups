@@ -55,5 +55,8 @@ git diff <commit_id>
 ---
 
 ## ✅ Output
+![image](https://github.com/user-attachments/assets/d3d25733-f9f3-409b-b82e-3229ed518049)
+![image](https://github.com/user-attachments/assets/ced85734-089f-4bd7-9bc3-e9d6b69707d6)
+![image](https://github.com/user-attachments/assets/e06e932c-ad95-443f-b455-c900b458c036)
 
 ---
