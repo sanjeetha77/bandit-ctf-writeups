@@ -39,5 +39,6 @@ cat /etc/bandit_pass/bandit33
 ---
 
 ## ✅ Output
+![image](https://github.com/user-attachments/assets/4a292470-d99a-4073-98f9-7fc9bc3ff4db)
 
 ---
