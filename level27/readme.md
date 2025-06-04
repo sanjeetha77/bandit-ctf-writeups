@@ -4,7 +4,7 @@
 
 ## **🧩 Challenge Description**
 
-There is a git repository at `ssh://bandit27-git@localhost:2220/home/bandit27-git/repo` via the port `2220`. The password for the user `bandit27-git` is the same as for the user `bandit27`.
+There is a git repository at `ssh://bandit27-git@localhost/home/bandit27-git/repo` via the port `2220`. The password for the user `bandit27-git` is the same as for the user `bandit27`.
 
 Clone the repository and find the password for the next level.
 
@@ -29,7 +29,7 @@ Use the password from the previous level.
 mktemp -d
 cd (That directory that we created by the above command)
 #Ensure to give the port number
-git clone ssh://bandit27-git@localhost/home/bandit27-git/repo
+git clone ssh://bandit27-git@localhost:2220/home/bandit27-git/repo
 
 3. Enter the cloned repo folder:
 
