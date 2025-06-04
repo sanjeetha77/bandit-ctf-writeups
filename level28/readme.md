@@ -49,5 +49,8 @@ This will show you the lines that were added/removed, and one of the removed lin
 ---
 
 ## ✅ Output
+![image](https://github.com/user-attachments/assets/dad85c73-2f7b-4497-8189-3f3d078e1ffb)
+![image](https://github.com/user-attachments/assets/4242fedf-743b-437f-8e59-d4865a050661)
+![image](https://github.com/user-attachments/assets/9298b818-9142-4fef-85fd-f5917e128493)
 
 ---
