@@ -1,4 +1,4 @@
-# **Bandit Level 24 → Level 25**
+# **Bandit Level 25 → Level 26**
 
 ---
 
