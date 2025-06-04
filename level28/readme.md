@@ -28,6 +28,7 @@ Use the password from the previous level: 0ef186ac70e04ea33b4c1853d2526fa2
 
 mktemp -d
 cd (above created directory)
+#Ensure to give the port number
 git clone ssh://bandit28-git@localhost/home/bandit28-git/repo
 
 3. Enter the repo directory:
