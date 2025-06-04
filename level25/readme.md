@@ -51,5 +51,9 @@ cat /etc/bandit_pass/bandit26
 ---
 
 ## ✅ Output
+![image](https://github.com/user-attachments/assets/1912c5fd-e008-475a-bdf9-e674204ea896)
+![image](https://github.com/user-attachments/assets/e28b0b40-df24-4b9e-a76e-bf807962594f)
+![image](https://github.com/user-attachments/assets/ca13d427-1731-441b-9e13-7505665cdff3)
+![image](https://github.com/user-attachments/assets/0b735953-ace1-4c11-a209-1aa4f558ac49)
 
 ---
