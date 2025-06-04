@@ -45,5 +45,8 @@ You’ll see a binary file named bandit27-do.
 ---
 
 ## ✅ Output
+![image](https://github.com/user-attachments/assets/9867df4a-bc74-44ac-82a9-1646435e93d4)
+![image](https://github.com/user-attachments/assets/27d619a6-e593-49c6-81f2-6411e2832a6f)
+![image](https://github.com/user-attachments/assets/3d883b2e-7735-4892-bb84-898d2902088e)
 
 ---
