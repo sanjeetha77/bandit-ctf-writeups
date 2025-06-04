@@ -30,7 +30,7 @@ Use the password from the previous level.
 
 mktemp -d
 cd (above created directory)
-git clone ssh://bandit30-git@localhost/home/bandit30-git/repo
+git clone ssh://bandit30-git@localhost:2220/home/bandit30-git/repo
 cd repo
 
 3. Check the Git log:
@@ -58,5 +58,7 @@ This will reveal the password for bandit31.
 ---
 
 ## ✅ Output
+![image](https://github.com/user-attachments/assets/46bdd8fd-add3-48e9-a0a4-7319eb2a34c7)
+![image](https://github.com/user-attachments/assets/aed4925d-7adc-409f-8e39-892aedc07434)
 
 ---
