@@ -26,5 +26,6 @@ And the conclusion for bandit.
 ---
 
 ## ✅ Output
+![WhatsApp Image 2025-06-04 at 11 06 43 PM (19)](https://github.com/user-attachments/assets/a8b4d7c1-af41-4fa6-a8cd-2563a38295e0)
 
 ---
