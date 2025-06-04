@@ -1,4 +1,4 @@
-# **Bandit Level 26 → Level 27**
+# **Bandit Level 27 → Level 28**
 
 ---
 
@@ -43,5 +43,6 @@ cat README
 ---
 
 ## ✅ Output
+![image](https://github.com/user-attachments/assets/42e00971-7e79-4d2d-a5e4-09afbe4f4baf)
 
 ---
